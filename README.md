@@ -1,14 +1,14 @@
 ## Example application with mobile phone PIN verification
 The tarball in this repository contains a docker image that contains:
-	* Alpine Linux distribution
-	* Python 2.7
-	* GNU nano text editor
-	* flask, twilio
-	* app and config files
+* Alpine Linux distribution
+* Python 2.7
+* GNU nano text editor
+* flask, twilio
+* app and config files
 
 ### Requires
-    * docker
-    * port 5000 on localhost available
+* docker
+* port 5000 on localhost available
 	
 ### Instructions
 1. Download/clone text_verify_app_docker_image
