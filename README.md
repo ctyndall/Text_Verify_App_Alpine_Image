@@ -15,7 +15,7 @@ The tarball in this repository contains a docker image that contains:
 2. Navigate to the folder where you downloaded and load the image with docker using:
 	 'docker load -i text_verify_app_alpine.tar'
 3. Run the image using:
-     'docker run -it -p 5000:5000 test_verify_app_alpine'
+     'docker run -it -p 5000:5000 text_verify_app_alpine'
 4. Once the image is loaded, edit the config.py file using nano:
 	 'nano config.py'
 5. Fill in your twilio account, token, and phone number and save the file.
